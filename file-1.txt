@@ -3,5 +3,6 @@ This line was added on master
 This line was added on branch testfix
 
 Add one more line on branch master
+This line was added on branch JBO/fixstuff
 
 
