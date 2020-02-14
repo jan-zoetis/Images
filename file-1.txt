@@ -2,3 +2,6 @@ This is file-1.txt
 This line was added on master
 This line was added on branch testfix
 
+This line was added on branch JBO/fixstuff
+
+
